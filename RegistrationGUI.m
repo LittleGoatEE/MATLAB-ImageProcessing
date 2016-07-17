@@ -1,5 +1,5 @@
 % mannual registration of two images with user interface
-% can apply transition, rotation, and scale
+% can apply translation, rotation, and scale
 % the GUI can be openned by Registration.fig
 % written by Yue Li
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
