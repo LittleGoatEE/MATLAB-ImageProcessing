@@ -4,7 +4,7 @@
 % written by Yue Li
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function varargout = Registration(varargin)
+function varargout = RegistrationGUI(varargin)
 % REGISTRATION MATLAB code for Registration.fig
 %      REGISTRATION, by itself, creates a new REGISTRATION or raises the existing
 %      singleton*.
